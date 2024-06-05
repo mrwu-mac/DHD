@@ -70,6 +70,7 @@ Refer to [`train.sh`](./train.sh) for training and [`test.sh`](./test.sh) for te
 }
 ```
 
-## Ack
+## Acknowledge
+This repo is based on [UPT](https://github.com/fredzzhang/upt).
 
 
