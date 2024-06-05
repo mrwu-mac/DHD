@@ -2,15 +2,16 @@
 
 [![python](./assets/python.svg)](https://www.python.org/) [![pytorch](./assets/pytorch.svg)](https://pytorch.org/get-started/locally/) [![pocket](./assets/pocket.svg)](https://github.com/fredzzhang/pocket) [![license](./assets/license.svg)](./LICENSE)
 
-This repository contains the official PyTorch implementation for the paper.
+This repository contains the official PyTorch implementation for the paper [Toward Open-set Human Object Interaction Detection (AAAI2024)](https://ojs.aaai.org/index.php/AAAI/article/view/28422).
 
 
 ## Model Zoo
 We provide weights for DHD models trained on HICO-DET. 
 
-|Model|Dataset|Default Settings|DHD Weights|GroundingDINO Weights|
-|:-|:-:|:-:|:-:|:-:|:-:|
-|DHD|HICO-DET|(`29.91`, `28.42`, `30.35`)|[weights](https://drive.google.com/file/d/1zEo8MMiiXmLfgs46AziAkdb6MjJQFk6M/view?usp=sharing)|[weights](https://github.com/IDEA-Research/GroundingDINO/releases/download/v0.1.0-alpha2/groundingdino_swinb_cogcoor.pth)|
+| Model | Dataset | Default Settings | DHD Weights | GroundingDINO Weights |
+|:-:|:-:|:-:|:-:|:-:|
+| DHD | HICO-DET | (`29.91`, `28.42`, `30.35`) | [weights](https://drive.google.com/file/d/1zEo8MMiiXmLfgs46AziAkdb6MjJQFk6M/view?usp=sharing) | [weights](https://github.com/IDEA-Research/GroundingDINO/releases/download/v0.1.0-alpha2/groundingdino_swinb_cogcoor.pth) |
+
 
 ## Prerequisites
 1. Install the lightweight deep learning library [Pocket](https://github.com/fredzzhang/pocket). The recommended PyTorch version is 1.9.0.
