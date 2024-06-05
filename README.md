@@ -57,5 +57,19 @@ DHD is released under the [BSD-3-Clause License](./LICENSE).
 
 Refer to [`train.sh`](./train.sh) for training and [`test.sh`](./test.sh) for testing commands with different options.  
 
+## Citation
+```
+@inproceedings{wu2024toward,
+  title={Toward Open-Set Human Object Interaction Detection},
+  author={Wu, Mingrui and Liu, Yuqi and Ji, Jiayi and Sun, Xiaoshuai and Ji, Rongrong},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={38},
+  number={6},
+  pages={6066--6073},
+  year={2024}
+}
+```
+
+## Ack
 
 
