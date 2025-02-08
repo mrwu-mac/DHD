@@ -41,7 +41,7 @@ Make sure the environment for Pocket is activated (`conda activate pocket`), and
     cd /path/to/dhd/vcoco
     ln -s /path/to/coco ./mscoco2014
     ```
-5. Prepare the VG dataset from [VG](https://visualgenome.org).
+5. Prepare the VG dataset from [VG](https://homes.cs.washington.edu/~ranjay/visualgenome/index.html).
     1. If you have downloaded the dataset, simply create a soft link
     ```bash
     cd /path/to/dhd/vg
